@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/ArnaudSpanneut/codemod-example",
   "author": "ArnaudSpanneut <arnaud.spanneut@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "jscodeshift": "^0.11.0"
+  }
 }
