@@ -1,0 +1,9 @@
+{
+  "name": "codemod-example",
+  "version": "1.0.0",
+  "description": "Codemod example",
+  "main": "index.js",
+  "repository": "https://github.com/ArnaudSpanneut/codemod-example",
+  "author": "ArnaudSpanneut <arnaud.spanneut@gmail.com>",
+  "license": "MIT"
+}
